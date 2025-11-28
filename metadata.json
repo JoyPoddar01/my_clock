@@ -1,0 +1,5 @@
+{
+  "name": "PlayfulTime",
+  "description": "A vibrant, playful digital clock with timer, multiple alarms, and offline sound generation.",
+  "requestFramePermissions": []
+}
